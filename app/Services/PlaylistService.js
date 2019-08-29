@@ -48,7 +48,7 @@ export default class PlaylistService {
                 _setState('playlist', playlist)
             })
     }
-
+    //thanks to Kenny
 
     addSong(id) {
         // TODO find the song from this.Songs that has the same id as the parameter of this function
